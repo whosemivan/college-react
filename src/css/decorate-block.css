@@ -1,0 +1,25 @@
+.decorate-block {
+    width: 60%;
+    min-height: calc(100vh - 50px);
+    display: flex;
+    justify-content: space-between;
+}
+
+.decorate-block__info {
+    width: 32%;
+    min-height: calc(100vh - 50px);
+    background-color: #D9A69B;
+    font-size: 250px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.decorate-block__info:nth-child(2) {
+    background-color: #B1B5B8;
+}
+
+.decorate-block__info:last-child {
+    background-color: #A9C5DA;
+}
