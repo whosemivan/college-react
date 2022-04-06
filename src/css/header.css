@@ -8,6 +8,10 @@
 
 .header__logo {
     margin-left: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
 }
 
 .header__nav {
@@ -50,4 +54,9 @@
 
 .header__item:last-child .header__link {
     color: #F4EDEA;
+}
+
+.header__logo-text {
+    font-weight: bold;
+    font-size: 20px;
 }
