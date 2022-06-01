@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/college-react/static/css/main.27b88a26.css",
-    "main.js": "/college-react/static/js/main.9551605d.js",
+    "main.js": "/college-react/static/js/main.43d31c10.js",
     "index.html": "/college-react/index.html",
     "main.27b88a26.css.map": "/college-react/static/css/main.27b88a26.css.map",
-    "main.9551605d.js.map": "/college-react/static/js/main.9551605d.js.map"
+    "main.43d31c10.js.map": "/college-react/static/js/main.43d31c10.js.map"
   },
   "entrypoints": [
     "static/css/main.27b88a26.css",
-    "static/js/main.9551605d.js"
+    "static/js/main.43d31c10.js"
   ]
 }
